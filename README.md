@@ -11,3 +11,6 @@ Also embedded is a GUI which can be used to easily remote control
 
 - Firmware is written in Bascom
 - GUI is written in VB6
+
+Further info can be found on my [website](https://sites.google.com/site/tsrprojekt/elektronikprojekte/pwm-modul)
+
